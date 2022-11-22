@@ -2,7 +2,7 @@
 - 👀 I’m interested in sociology
 - 🌱 I’m currently learning Python
 - 📫 zhanghanruieva@gmail.com
-- Studing in UCA Fr 🇫🇷 
+- Studing in Emlyon DSAIS Fr 🇫🇷 
 
 <!---
 lzwyeva/lzwyeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
