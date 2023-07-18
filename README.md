@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lzwyeva
 - 👀 I’m interested in sociology
-- 🌱 I’m currently learning Python
+- 🌱 I’m a data analyst intern
 - 📫 zhanghanruieva@gmail.com
 - Studing in Emlyon DSAIS Fr 🇫🇷 
 
